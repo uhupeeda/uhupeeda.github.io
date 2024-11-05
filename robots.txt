@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uhupeeda.github.io/EtR/sitemap_index.txt
+Sitemap: https://uhupeeda.github.io/Mws/sitemap_index.txt
+Sitemap: https://uhupeeda.github.io/OEu/sitemap_index.txt
+Sitemap: https://uhupeeda.github.io/SUo/sitemap_index.txt
